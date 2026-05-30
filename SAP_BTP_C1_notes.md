@@ -1,7 +1,3 @@
-Your content is already comprehensive. The main improvement needed is formatting and hierarchy. Below is your content reorganized into a cleaner, study-friendly structure without changing the information.
-
----
-
 # SAP BTP Exam Notes
 
 ---
